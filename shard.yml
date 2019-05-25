@@ -4,6 +4,9 @@ version: 0.1.0
 authors:
   - Quintis Venter <quintis@quint.is>
 
+description:
+  - Firebase SDK for Crystal
+
 crystal: 0.28.0
 
 license: MIT

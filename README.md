@@ -2,6 +2,8 @@
 
 TODO: Write a description here
 
+[![Build Status](https://travis-ci.org/firebasecr/firebase.svg?branch=master)](https://travis-ci.org/firebasecr/firebase) [![GitHub release](https://img.shields.io/github/release/firebasecr/firebase.svg)](https://github.com/firebasecr/firebase/releases)
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
@@ -9,7 +11,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      firebase:
-       github: your-github-user/firebase
+       github: firebasecr/firebase
    ```
 
 2. Run `shards install`
