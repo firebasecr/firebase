@@ -1,0 +1,9 @@
+name: firebase
+version: 0.1.0
+
+authors:
+  - Quintis Venter <quintis@quint.is>
+
+crystal: 0.28.0
+
+license: MIT
